@@ -1,0 +1,81 @@
+
+
+
+
+body {
+  background-image:url("キングダム1.png");
+  background-repeat:no-repeat;
+  background-size: 80% 90%;
+  background-attachment: scroll;
+  background-attachment: fixed;
+  background-color:rgba(255, 255, 255, 0.562);
+  background-blend-mode:lighten;
+
+
+
+}
+
+
+
+#example1 {
+  color: green;
+  font-size: 30pt;
+  white-space: nowrap;
+  font-weight: bold;
+
+}
+
+
+
+#h1 {
+  color: green;
+  font-size: 30pt;
+  white-space: nowrap;
+  ---font-weight: bold;
+
+}
+
+
+
+
+.キャラの写真 {
+  width: 20%;    /* 横幅を割合で指定 */
+  height: auto;  /* 高さは自動指定 */
+}
+
+
+
+
+
+
+
+
+
+  .aaa {
+    width: 31%;    /* 横幅を割合で指定 */
+    height: auto;  /* 高さは自動指定 */
+}
+
+
+
+
+
+
+/***トップへ戻るボタン***/
+#page-top {
+  display: block;
+  font-weight: bold;
+  padding: .7em;
+  text-align: center;
+  background: #fff; /*背景色*/
+  color: #666; /*文字色*/
+  transition: .3s;
+}
+/***マウスオーバー時***/
+#page-top:hover {
+  background: #666; /*背景色*/
+  color: #fff; /*文字色*/
+}
+/***トップへ戻るボタンここまで***/
+
+
